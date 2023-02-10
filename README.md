@@ -37,4 +37,14 @@ I spent several years working in tech consulting where I gained valuable experie
 <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
 <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
- </p>
+</p>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+ <a href="http://www.linkedin.com/in/mike-p-varga">
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+  <a href=mailto:"mikevarga07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+</p>
